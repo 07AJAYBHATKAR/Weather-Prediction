@@ -4,7 +4,7 @@ PROBLEM STATMENT:- Using machine learning concepts, need to predict the weather 
 
 Description:- The Weather Dataset is a information about the weather condition of Month. It records precipitation, maximum temperature, miniimum temperature, Wind speed. This Dataset available as a csv file. We are going to analyze this dataset using Panda's data frame.
 
-About Dataset:- 
+### About Dataset:- 
 
 Using the Columns :
 ````
@@ -18,7 +18,9 @@ wind
 ````
 
 
-OBJECTIVE:- We are going to predict the weather condition :
+### OBJECTIVE:- 
+
+We are going to predict the weather condition :
 ````
 drizzle
 
@@ -42,7 +44,7 @@ fog
 
 
 
-DATA VISUALISATION:-
+### DATA VISUALISATION:-
 
 For data visualisation we use MATPLOTLIB & SEABORN libraries.
 
@@ -102,7 +104,12 @@ The percentage of:-
 
 
 
-Conclusion:-
+### Conclusion:-
     
     - Out of seven machine learning algorithms we applied, 
     - We conclude that Gaussian NB classifier performs the best on this dataset with 83.61% Accuracy
+
+
+## Dashboard
+- ![Screenshot (523)](https://user-images.githubusercontent.com/108801533/189523191-f5c3acf4-c702-47ef-8b23-b7a237755354.png)
+- ![Screenshot (525)](https://user-images.githubusercontent.com/108801533/189523188-17f093de-29b3-4643-9c94-43f578742a9b.png)
