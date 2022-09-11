@@ -14,6 +14,8 @@ tempmin
 
 wind
 
+
+
 OBJECTIVE:- We are going to predict the weather condition :
 
 drizzle
@@ -26,6 +28,8 @@ snow
 
 fog
 
+
+
 1.Importing the Essential Libraries
 
 2.Loading the Data using CSV file
@@ -34,6 +38,8 @@ fog
 
 4.Get the count of missing values in each column of a dataframe.
 
+
+
 DATA VISUALISATION:-
 
 For data visualisation we use MATPLOTLIB & SEABORN libraries.
@@ -41,41 +47,41 @@ For data visualisation we use MATPLOTLIB & SEABORN libraries.
 MATPLOTLIB:-
 
 Matplotlib is an amazing visualization library in Python for 2D plots of arrays.
-
 Matplotlib consists of several plots like line, bar, scatter, histogram etc.
 
 SEABORN:-
 
 Seaborn is an amazing visualization library for statistical graphics plotting in Python.
-
 It provides beautiful default styles and color palettes to make statistical plots more attractive.
 
 5.Finding values of outliers(IQR method)
 
 Checking for the presence of outliers in numeric cols
-
 Outlier is an observation that appears far away and diverges from an overall pattern in a sample.
 
 Outliers in input data can skew and mislead the training process of machine learning algorithms resulting in longer training times, less accurate models and ultimately 
 poorer results.
 
+
+
 6.Dealing this problem with Seven machine learning models.(Classification)
 
-1.LogisticRegression
+  a.LogisticRegression
 
-2.KNeighbors
+  b.KNeighbors
+  
+  c.SVC(Support Vector Classification)
+  
+  d.Gaussian Naive Bayes (GaussianNB)
+  
+  e.RandomForest
+  
+  f.SGD(stochastic gradient descent)
+  
+  g.Gradient Boosting
 
-3.SVC(Support Vector Classification)
 
-4.Gaussian Naive Bayes (GaussianNB)
-
-5.RandomForest
-
-6.SGD(stochastic gradient descent)
-
-7.Gradient Boosting
-
-8.We have predicted the Weather using Seven different ML model algorithms. 
+7.We have predicted the Weather using Seven different ML model algorithms. 
 
 The percentage of:-
 
@@ -92,6 +98,7 @@ The percentage of:-
 6.SGD(stochastic gradient descent)= 68.85%
 
 7.Gradient Boosting= 82.24%
+
 
 
 Conclusion:-
