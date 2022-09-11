@@ -66,19 +66,19 @@ poorer results.
 
 6.Dealing this problem with Seven machine learning models.(Classification)
 
-  a.LogisticRegression
+   a.LogisticRegression
 
-  b.KNeighbors
-  
-  c.SVC(Support Vector Classification)
-  
-  d.Gaussian Naive Bayes (GaussianNB)
-  
-  e.RandomForest
-  
-  f.SGD(stochastic gradient descent)
-  
-  g.Gradient Boosting
+   b.KNeighbors
+   
+   c.SVC(Support Vector Classification)
+   
+   d.Gaussian Naive Bayes (GaussianNB)
+   
+   e.RandomForest
+   
+   f.SGD(stochastic gradient descent)
+   
+   g.Gradient Boosting
 
 
 7.We have predicted the Weather using Seven different ML model algorithms. 
